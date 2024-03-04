@@ -1,0 +1,2 @@
+This repo contains a SysML model generated using StarUML that represents a traffic signal system.  This model is built as the practice assignment for the Udemy class "The Systems Modeling Language (SysML) v1.6" (https://www.udemy.com/course/the-systems-modeling-language-sysml-v16/?couponCode=KEEPLEARNING).
+I took some liberties in extending the system and consequent model beyond what is strictly required by the assignments.
